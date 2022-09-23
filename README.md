@@ -23,9 +23,9 @@ Tutorial:
 
 **4- Open the folder in VS Code**
 
-**5- After downloading the node.js open the terminal in VS Code and type:** ![image](https://user-images.githubusercontent.com/89609653/192061255-328f983d-86d1-437b-b3a4-cc277457cdcf.png) **npm init -y**
+**5- After downloading the node.js open the terminal in VS Code and type:** ![image](https://user-images.githubusercontent.com/89609653/192061255-328f983d-86d1-437b-b3a4-cc277457cdcf.png)  **npm init -y**
 
-**6- After typing npm init -y lets implement the discord.js: ![image](https://user-images.githubusercontent.com/89609653/192061342-feffe837-ff74-4176-aa14-9c4493fd3a65.png)** **npm install discord.js --save**
+**6- After typing npm init -y lets implement the discord.js: ![image](https://user-images.githubusercontent.com/89609653/192061342-feffe837-ff74-4176-aa14-9c4493fd3a65.png)**  **npm install discord.js --save**
 
 **7- After downloading the modules and package put your bot token in index.js / const token = "YOUR TOKEN";**
 
