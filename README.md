@@ -37,7 +37,8 @@ Tutorial:
 
 ![image](https://user-images.githubusercontent.com/89609653/192061759-79305062-22ec-4748-a389-1541757100a7.png)
 
-**And your bot will get the "Supports Commands Badge"** ![image](https://user-images.githubusercontent.com/89609653/192061831-361578f8-0b07-4472-a580-e1d1c90b5823.png)
 
-![banner do github]<a href="https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=8&scope=bot">(https://user-images.githubusercontent.com/89609653/192061917-40f19e04-03bc-4f81-bc59-b9c6f930828b.png)</a>
+![banner do github](https://user-images.githubusercontent.com/89609653/192061917-40f19e04-03bc-4f81-bc59-b9c6f930828b.png)
+
+<a href="https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=8&scope=bot"> **Feel Free to add my bot which is being developed!**</a>
 
