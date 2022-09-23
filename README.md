@@ -5,6 +5,10 @@ Tools you will need:
 
 <a href="https://nodejs.org/en/"> Node.js</a>
 
-<a href="https://discord.js.org/#/"> discord.js</a>
+<a href="https://discord.js.org/#/"> Discord.js</a>
 
-<a href="https://code.visualstudio.com"> Vs Studio Code</a>
+<a href="https://code.visualstudio.com"> VS Studio Code</a>
+
+Tutorial:
+
+1- Create a folder and put the <a href="https://github.com/LunarProd/Discord-Slash/blob/main/index%20bot.js">index.js</a>
