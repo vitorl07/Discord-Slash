@@ -44,3 +44,4 @@ Tutorial:
 
 <a href="#"> **Feel Free to add my bot which is being developed!**</a>
 
+Update: This project is cancelled and it's being replaced with another. Details soon!
