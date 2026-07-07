@@ -38,3 +38,6 @@ Tutorial:
 <a href="#"> **Feel Free to add my bot which is being developed!**</a>
 
 Update: This project is cancelled and it's being replaced with another. Details soon!
+
+
+Update: This code is no longer working, as it was introduced in late 2022
